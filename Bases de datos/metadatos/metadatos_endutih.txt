@@ -1,0 +1,31 @@
+﻿Identifier: MEX-INEGI-ENDUTIH-2017
+
+Title: Encuesta Nacional sobre Disponibilidad y Uso de TIC en Hogares (ENDUTIH)
+
+Description: La encuesta proporciona información estadística que permite conocer la disponibilidad y el uso de las tecnologías de la información y las comunicaciones en los hogares y por los individuos de seis o más años de edad que viven en los dominios de interés. La encuesta está diseñada para dar resultados en los siguientes dominios de estudio: • Nacional • Entidad • Entidad ámbito urbano • Entidad ámbito rural • Ciudad  
+Para la selección de la muestra de la encuesta se utilizó la Muestra Maestra del Marco Nacional de Viviendas 2012, este último, construido a partir de la información cartográfica y demográfica que se obtuvo del Censo de Población y Vivienda 2010. 
+
+Nota. Debido al cambio metodológico observado entre MODUTIH y ENDUTIH, al pasar de un informante que responde sobre el uso de las TIC por los demás miembros del hogar, hacia un informante seleccionado aleatoriamente que proporciona únicamente el uso que le brinda él mismo a estas tecnologías, las cifras de usuarios no son comparables entre 2001-2014 y 2015-2017.
+
+Modified: 2017-02-19
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: http://www.beta.inegi.org.mx/inegi/terminos.html
+
+Datadictionary: 
+
+Keyword: TIC en el hogar, Hogares, Computadora, Internet, Usuarios de TIC, Telefonía móvil 
+
+Contactpoint: Lic. José de Jesús Esquivel de la Rosa, 01800 111 4634
+
+Temporal: 2017
+
+Spatial: Estados Unidos Mexicanos
+
+Accrualperiodicity: Anualmente.
+
+Distribution: 
+
